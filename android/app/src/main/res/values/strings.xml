@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DJK Opener</string>
+    <string name="accessibility_service_description">
+        DJK Opener utilise ce service pour detecter l\'ouverture des reseaux
+        sociaux choisis par le parent et afficher un ecran de blocage.
+        Aucun contenu affiche a l\'ecran n\'est lu ni transmis.
+    </string>
+</resources>

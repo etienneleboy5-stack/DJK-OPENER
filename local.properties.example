@@ -1,0 +1,3 @@
+# Ce fichier est genere automatiquement par Flutter/GitHub Actions.
+# Ne pas committer local.properties (deja dans .gitignore).
+flutter.sdk=/chemin/vers/flutter
